@@ -74,9 +74,9 @@ RIPL_SidG/
 
 | Distribution | Success Rate |
 |---|---|
-| Baseline (nominal) | ~60% |
-| Baseline (failure-biased) | ~15-25% |
-| Finetuned (failure-biased) | ~40-50% (target) |
+| Baseline (nominal) | ~0.60% |
+| Baseline (failure-biased) | ~0.15-0.25% |
+| Finetuned (failure-biased) | ~0.40-0.50% (target) |
 
 ## Key Innovations
 
