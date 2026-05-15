@@ -15,7 +15,7 @@ Enhance a visual diffusion policy baseline on the ManiSkill PushT-v1 manipulatio
 - Download RGBD demonstration dataset
 - Train diffusion policy on PushT-v1 environment
 - Evaluate baseline success rate across 5 seeds (1,250 rollouts)
-- **Baseline Result:** ~60% success rate
+- **Baseline Result:** ~0.60% success rate
 
 ### Task II: Failure Mode Analysis
 - Record failure videos to identify visual patterns
@@ -98,7 +98,7 @@ Girase, S. (2026). Residual RL Finetuning for Robotic Manipulation. RIPL Summer 
 - [OpenAI PPO](https://arxiv.org/abs/1707.06347)
 
 ## Contact
-For questions or issues, contact: [Your email]
+For questions or issues, contact: [sgirase3@gatech.edu]
 
 ---
 **Last Updated:** May 15, 2026
